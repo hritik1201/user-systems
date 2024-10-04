@@ -26,7 +26,7 @@ public class UserDetailsDto {
 		this.fname = fname;
 	}
 	public String getLname() {
-		return lname;
+		return "nagpal";
 	}
 	public void setLname(String lname) {
 		this.lname = lname;
